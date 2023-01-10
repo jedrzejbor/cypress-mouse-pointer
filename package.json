@@ -1,0 +1,21 @@
+{
+  "name": "cypress-mouse-pointer",
+  "version": "1.0.0",
+  "description": "Show mouse pointer in cypress test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedrzejbor/cypress-mouse-pointer.git"
+  },
+  "keywords": [
+    "cmp"
+  ],
+  "author": "jedrzejbor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedrzejbor/cypress-mouse-pointer/issues"
+  },
+  "homepage": "https://github.com/jedrzejbor/cypress-mouse-pointer#readme"
+}
